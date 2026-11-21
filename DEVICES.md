@@ -201,6 +201,7 @@
 - Evotherm ETI series heat pump
 - Fairland IPHCR15, RMIC06, X20 pool heat pumps (also Pool Systems and other brands)
 - Garden PAC pool heat pump (also works with Summerwave Si Series)
+- Generic "Intelligent Heat Pump" pool heat pump (Celsius variant of Aquastrong HEX protocol)
 - Giatsu GIA-BP07MDA pool heat pump
 - Henden Essential pool heat pump
 - Komeco QC60 pool heat pump
